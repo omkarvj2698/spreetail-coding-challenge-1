@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environments
+venv/
+.env/
+
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+
+# Cache and logs
+*.log
+.cache/
+
+
+# Environment and secrets
+.env
+.env.local
+*.pem
+
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+
+# SQLite databases
+*.db
+*.sqlite3
+
+
+# Uvicorn/PID runtime files
+*.pid
+
+
+# Notebook checkpoints
+.ipynb_checkpoints/
